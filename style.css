@@ -1,0 +1,45 @@
+.box{
+    font-family: sans-serif
+}
+.for{
+    padding-top: 100px;
+}
+.lines{
+    /* border-bottom: 4px dashed #000;; */
+    width: 40%; /* Adjust width to control how much of the page it spans */
+    height: 2px; /* Adjust thickness as needed */
+    margin: 0 auto; /* Center the line if desired */
+    background: repeating-linear-gradient(
+        to right,
+        #000,
+        #000 30px,       /* Length of each dash */
+        transparent 70px /* Gap between dashes */
+    );
+}
+.text{
+    /* margin-left: 400px; */
+    margin-top: 50px;
+}
+.for1{
+    padding-top: 100px;
+    margin-left: 400px;
+}
+body {
+    justify-content: center;
+    background-color: #f4f4f4;
+}
+.search-bar {
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#search-button {
+    background-color: white;
+    border: none;
+    padding: 10px 15px;
+    background: white;
+    font-size: 18px;
+    border-radius: 50%;
+}
