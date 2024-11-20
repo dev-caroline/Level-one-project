@@ -33,3 +33,9 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(i
     width: 100%;
     background-size: cover;
 }
+.search{
+    /* filter: invert(1); */
+    border-radius: 100%;
+    background-color: white;
+    padding: 15px;
+} 
