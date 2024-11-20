@@ -33,6 +33,34 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(i
     width: 100%;
     background-size: cover;
 }
+.search-bar {
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#search-button {
+    background-color: white;
+    border: none;
+    padding: 10px 15px;
+    background: white;
+    font-size: 18px;
+    border-radius: 50%;
+}
+.real{
+    margin-left:75px;
+    margin-top: 60px;
+    display: flex;
+}
+.cover{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.button{
+    margin-left: 80px;
+    margin-top: 40px;
+}
 .search{
     /* filter: invert(1); */
     border-radius: 100%;
