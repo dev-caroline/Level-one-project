@@ -167,8 +167,9 @@ grid-column-start: 1;
 .hr{
     margin-top: 50px;
 }
-.grid-container{
+.grid-imaging{
+    margin-left: 80px;
     display: grid;
     gap: 30px;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
