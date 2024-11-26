@@ -61,7 +61,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(i
     margin-left: 80px;
     margin-top: 40px;
 }
-.image{
+.photo{
     background-image: url(images/bookdiverse/image\ 27.png);
     background-position: 0;
     background-repeat: no-repeat;
@@ -167,8 +167,15 @@ grid-column-start: 1;
 .hr{
     margin-top: 50px;
 }
-.grid-container{
+.grid-imaging{
+    margin-left: 80px;
     display: grid;
     gap: 30px;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.grid-i{
+    border: 2px solid rgb(173, 172, 172);
+    height: 29vh;
+    width: 95%;
+    margin-left: 70px;
 }
