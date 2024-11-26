@@ -182,6 +182,6 @@ grid-column-start: 1;
 .grid-i{
     border: 2px solid rgb(173, 172, 172);
     height: 29vh;
-    width: 95%;
-    margin-left: 70px;
+    width: 70%;
+    margin-left: 300px;
 }
